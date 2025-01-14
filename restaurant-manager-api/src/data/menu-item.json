@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Phở Bò",
+    "description": "Phở nước truyền thống Việt Nam với nước dùng đậm đà từ xương bò, bánh phở, thịt bò, và hành lá.",
+    "image": "pho_bo.jpg",
+    "price": 50000,
+    "instructions": "Nấu nước dùng từ xương bò trong 6 giờ, thêm gia vị và bánh phở khi chuẩn bị.",
+    "preparation_time": 30,
+    "ingredients": [
+      {
+        "id": 1,
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "id": 2,
+        "quantity": 500,
+        "unit": "ml"
+      },
+      {
+        "id": 3,
+        "quantity": 50,
+        "unit": "g"
+      }
+    ],
+    "status": true,
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Cơm Tấm Sườn Nướng",
+    "description": "Cơm tấm với sườn nướng thơm ngon, nước mắm chua ngọt, ăn kèm đồ chua và trứng ốp la.",
+    "image": "com_tam.jpg",
+    "price": 45000,
+    "instructions": "Ướp sườn với gia vị trong 30 phút, nướng sườn và chuẩn bị cơm tấm.",
+    "preparation_time": 25,
+    "ingredients": [
+      {
+        "id": 4,
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "id": 5,
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "id": 6,
+        "quantity": 1,
+        "unit": "piece"
+      }
+    ],
+    "status": true,
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Bún Chả Hà Nội",
+    "description": "Bún chả Hà Nội gồm bún, thịt nướng, nước mắm pha chua ngọt, ăn kèm rau sống.",
+    "image": "bun_cha.jpg",
+    "price": 60000,
+    "instructions": "Nướng thịt heo và pha nước mắm với đường, giấm, và tỏi.",
+    "preparation_time": 35,
+    "ingredients": [
+      {
+        "id": 7,
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "id": 8,
+        "quantity": 300,
+        "unit": "g"
+      },
+      {
+        "id": 9,
+        "quantity": 100,
+        "unit": "ml"
+      }
+    ],
+    "status": true,
+    "category_id": 3
+  },
+  {
+    "id": 4,
+    "name": "Gỏi Cuốn",
+    "description": "Gỏi cuốn gồm tôm, thịt luộc, bún, rau sống cuốn trong bánh tráng, ăn kèm nước chấm đặc biệt.",
+    "image": "goi_cuon.jpg",
+    "price": 30000,
+    "instructions": "Luộc tôm và thịt, sau đó cuốn chung với bún, rau, và bánh tráng.",
+    "preparation_time": 20,
+    "ingredients": [
+      {
+        "id": 10,
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "id": 11,
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "id": 12,
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+    "status": true,
+    "category_id": 4
+  },
+  {
+    "id": 5,
+    "name": "Bún Riêu Cua",
+    "description": "Bún riêu cua với nước dùng chua nhẹ, riêu cua, đậu phụ, cà chua và rau sống.",
+    "image": "bun_rieu_cua.jpg",
+    "price": 55000,
+    "instructions": "Nấu nước dùng từ cua, thêm cà chua và gia vị, sau đó thêm bún và rau.",
+    "preparation_time": 30,
+    "ingredients": [
+      { "id": 7, "quantity": 200, "unit": "g" },
+      { "id": 8, "quantity": 300, "unit": "g" },
+      { "id": 9, "quantity": 50, "unit": "ml" }
+    ],
+    "status": true,
+    "category_id": 3
+  },
+  {
+    "id": 6,
+    "name": "Chả Giò",
+    "description": "Chả giò chiên giòn với nhân tôm thịt và rau củ, ăn kèm nước mắm chua ngọt.",
+    "image": "cha_gio.jpg",
+    "price": 40000,
+    "instructions": "Cuộn chả giò và chiên giòn, ăn kèm nước mắm pha.",
+    "preparation_time": 25,
+    "ingredients": [
+      { "id": 10, "quantity": 100, "unit": "g" },
+      { "id": 11, "quantity": 100, "unit": "g" },
+      { "id": 12, "quantity": 50, "unit": "g" }
+    ],
+    "status": true,
+    "category_id": 4
+  },
+  {
+    "id": 7,
+    "name": "Lẩu Thái",
+    "description": "Lẩu Thái với nước dùng cay chua, hải sản, nấm, và rau xanh.",
+    "image": "lau_thai.jpg",
+    "price": 250000,
+    "instructions": "Chuẩn bị nước dùng từ gừng, sả và ớt, thêm hải sản và rau.",
+    "preparation_time": 45,
+    "ingredients": [
+      { "id": 10, "quantity": 300, "unit": "g" },
+      { "id": 8, "quantity": 500, "unit": "g" },
+      { "id": 9, "quantity": 200, "unit": "ml" }
+    ],
+    "status": true,
+    "category_id": 1
+  },
+  {
+    "id": 8,
+    "name": "Gà Nướng Mật Ong",
+    "description": "Gà nướng thơm ngon, ướp mật ong, gia vị, và các loại thảo mộc.",
+    "image": "ga_nuong_mat_ong.jpg",
+    "price": 90000,
+    "instructions": "Ướp gà với mật ong và thảo mộc trong 1 giờ, sau đó nướng ở nhiệt độ cao.",
+    "preparation_time": 40,
+    "ingredients": [
+      { "id": 13, "quantity": 1, "unit": "kg" },
+      { "id": 14, "quantity": 50, "unit": "ml" },
+      { "id": 15, "quantity": 20, "unit": "g" }
+    ],
+    "status": true,
+    "category_id": 2
+  },
+  {
+    "id": 9,
+    "name": "Mì Xào Hải Sản",
+    "description": "Mì xào giòn với tôm, mực, rau củ, và nước sốt thơm ngon.",
+    "image": "mi_xao_hai_san.jpg",
+    "price": 65000,
+    "instructions": "Xào mì cùng với hải sản và rau củ, thêm nước sốt.",
+    "preparation_time": 20,
+    "ingredients": [
+      { "id": 16, "quantity": 100, "unit": "g" },
+      { "id": 17, "quantity": 150, "unit": "g" },
+      { "id": 10, "quantity": 100, "unit": "g" }
+    ],
+    "status": true,
+    "category_id": 3
+  },
+  {
+    "id": 10,
+    "name": "Súp Cua",
+    "description": "Súp cua nấu với thịt cua, trứng cút, và nấm.",
+    "image": "sup_cua.jpg",
+    "price": 30000,
+    "instructions": "Nấu nước dùng, thêm thịt cua, trứng cút, và nấm, nêm nếm vừa ăn.",
+    "preparation_time": 15,
+    "ingredients": [
+      { "id": 18, "quantity": 200, "unit": "g" },
+      { "id": 19, "quantity": 5, "unit": "fruit" },
+      { "id": 20, "quantity": 50, "unit": "g" }
+    ],
+    "status": true,
+    "category_id": 1
+  },
+  {
+    "id": 11,
+    "name": "Bánh Mì Kẹp Thịt Nướng",
+    "description": "Bánh mì kẹp thịt nướng, rau thơm, dưa chua và nước sốt đặc biệt.",
+    "image": "banh_mi_kep_thit.jpg",
+    "price": 25000,
+    "instructions": "Nướng thịt, kẹp cùng bánh mì, rau thơm và nước sốt.",
+    "preparation_time": 10,
+    "ingredients": [
+      { "id": 21, "quantity": 100, "unit": "g" },
+      { "id": 22, "quantity": 1, "unit": "fruit" },
+      { "id": 23, "quantity": 10, "unit": "g" }
+    ],
+    "status": true,
+    "category_id": 4
+  }, {
+    "id": 12,
+    "name": "Bánh Flan",
+    "description": "Bánh flan mềm mịn, thơm ngon, ăn kèm với caramel.",
+    "image": "banh_flan.jpg",
+    "price": 15000,
+    "instructions": "Trộn các nguyên liệu và hấp cho đến khi chín.",
+    "preparation_time": 30,
+    "ingredients": [
+      { "id": 24,  "quantity": 6, "unit": "fruit" },
+      { "id": 25,  "quantity": 300, "unit": "ml" },
+      { "id": 26,  "quantity": 100, "unit": "g" }
+    ],
+    "status": true,
+    "category_id": 5
+  },
+  {
+    "id": 13,
+    "name": "Kem Tươi",
+    "description": "Kem tươi mát lạnh, thơm ngon, có thể ăn kèm với trái cây.",
+    "image": "kem_tuoi.jpg",
+    "price": 20000,
+    "instructions": "Đánh bông kem và cho vào tủ đông cho đến khi đông cứng.",
+    "preparation_time": 60,
+    "ingredients": [
+      { "id": 27, "quantity": 500, "unit": "ml" },
+      { "id": 28, "quantity": 200, "unit": "g" }
+    ],
+    "status": true,
+    "category_id": 5
+  },
+  {
+    "id": 14,
+    "name": "Chè Bưởi",
+    "description": "Chè bưởi thanh mát, ngọt ngào, ăn kèm với dừa nạo.",
+    "image": "che_buoi.jpg",
+    "price": 25000,
+    "instructions": "Nấu các nguyên liệu cho đến khi chín và hòa quyện.",
+    "preparation_time": 45,
+    "ingredients": [
+      { "id": 29,  "quantity": 200, "unit": "g" },
+      { "id": 28,  "quantity": 100, "unit": "g" },
+      { "id": 30,  "quantity": 200, "unit": "ml" }
+    ],
+    "status": true,
+    "category_id": 5
+  }
+]

@@ -1,0 +1,131 @@
+[
+ {
+  "id": 1,
+  "title" : "Home",
+  "path" : "#home",
+  "is_visible": true,
+  "static": "customer"
+ },
+ {
+  "id": 2,
+  "title" : "Menu",
+  "path" : "#menu",
+  "is_visible": true,
+  "static": "customer"
+ },
+ {
+  "id": 3,
+  "title" : "Specials",
+  "path" : "#specials",
+  "is_visible": true,
+  "static": "customer"
+ },
+ {
+  "id": 4,
+  "title" : "Events",
+  "path" : "#events",
+  "is_visible": true,
+  "static": "customer"
+ },
+ {
+  "id": 5,
+  "title" : "Gallery",
+  "path" : "#gallery",
+  "is_visible": true,
+  "static": "customer"
+ },
+ {
+  "id": 6,
+  "title" : "Trang Chủ",
+  "path" : "/admin/dashboard",
+  "is_visible": true,
+  "static": "admin"
+ },
+ {
+  "id": 7,
+  "title" : "Quản Lý Giảm Giá",
+  "path" : "/admin/discounts",
+  "is_visible": true,
+  "static": "admin"
+ },
+ {
+  "id": 8,
+  "title" : "Specials",
+  "path" : "/specials",
+  "is_visible": true,
+  "static": "staff"
+ },
+ {
+  "id": 9,
+  "title" : "Quản Lý Tài Khoản",
+  "path" : "/admin/user",
+  "is_visible": true,
+  "static": "admin"
+ },
+
+ {
+  "id": 10,
+  "title" : "Order Screen",
+  "path" : "/order",
+  "is_visible": true,
+  "static": "staff"
+ },
+ {
+  "id": 11,
+  "title" : "Orders List",
+  "path" : "/orderlist",
+  "is_visible": true,
+  "static": "staff"
+ },
+
+ {
+  "id": 12,
+  "title" : "Quản Lý Nguyên Liệu",
+  "path" : "/admin/ingredients",
+  "is_visible": true,
+  "static": "admin"
+ },
+ {
+  "id": 13,
+  "title" : "Nhập Nguyên Liệu",
+  "path" : "/admin/addingredients",
+  "is_visible": true,
+  "static": "admin"
+ },
+ {
+  "id": 14,
+  "title" : "Quản Lý Danh Mục",
+  "path" : "/admin/menu-categories",
+  "is_visible": true,
+  "static": "admin"
+ },
+ {
+  "id": 15,
+  "title" : "Quản lý Thực Đơn",
+  "path" : "/admin/menu",
+  "is_visible": true,
+  "static": "admin"
+ },
+ {
+  "id": 16,
+  "title" : "Quản Lý Đặt Bàn",
+  "path" : "/admin/reservations",
+  "is_visible": true,
+  "static": "admin"
+ }
+ ,
+ {
+  "id": 17,
+  "title" : "Quản Lý Bàn",
+  "path" : "/admin/tables",
+  "is_visible": true,
+  "static": "admin"
+ },
+ {
+  "id": 18,
+  "title" : "Quản Lý Khách Hàng",
+  "path" : "/admin/customer",
+  "is_visible": true,
+  "static": "admin"
+ }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "name": "Bánh phở",
+    "quantity": 10,
+    "unit": "kg",
+    "expiration_date": "2024-12-31",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 2,
+    "name": "Nước dùng bò",
+    "quantity": 50,
+    "unit": "liters",
+    "expiration_date": "2024-11-30",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 3,
+    "name": "Hành lá",
+    "quantity": 5,
+    "unit": "kg",
+    "expiration_date": "2024-11-20",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 4,
+    "name": "Sườn heo",
+    "quantity": 20,
+    "unit": "kg",
+    "expiration_date": "2024-11-10",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 5,
+    "name": "Cơm tấm",
+    "quantity": 100,
+    "unit": "kg",
+    "expiration_date": "2025-01-01",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 6,
+    "name": "Trứng gà",
+    "quantity": 200,
+    "unit": "piece",
+    "expiration_date": "2024-11-05",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 7,
+    "name": "Thịt heo",
+    "quantity": 15,
+    "unit": "kg",
+    "expiration_date": "2024-11-15",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 8,
+    "name": "Bún",
+    "quantity": 30,
+    "unit": "kg",
+    "expiration_date": "2024-12-20",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 9,
+    "name": "Nước mắm",
+    "quantity": 10,
+    "unit": "liters",
+    "expiration_date": "2025-06-30",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 10,
+    "name": "Tôm tươi",
+    "quantity": 8,
+    "unit": "kg",
+    "expiration_date": "2024-11-10",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 11,
+    "name": "Thịt luộc",
+    "quantity": 10,
+    "unit": "kg",
+    "expiration_date": "2024-11-15",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 12,
+    "name": "Bánh tráng",
+    "quantity": 500,
+    "unit": "g",
+    "expiration_date": "2025-01-10",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 13,
+    "name": "Gà",
+    "quantity": 10,
+    "unit": "kg",
+    "expiration_date": "2025-12-31",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 14,
+    "name": "Mật Ong",
+    "quantity": 500,
+    "unit": "ml",
+    "expiration_date": "2026-12-31",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 15,
+    "name": "Gia Vị",
+    "quantity": 200,
+    "unit": "g",
+    "expiration_date": "2025-11-30",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 16,
+    "name": "Mì",
+    "quantity": 50,
+    "unit": "kg",
+    "expiration_date": "2025-05-01",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 17,
+    "name": "Mực",
+    "quantity": 20,
+    "unit": "kg",
+    "expiration_date": "2025-03-30",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 18,
+    "name": "Thịt Cua",
+    "quantity": 25,
+    "unit": "kg",
+    "expiration_date": "2025-02-20",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 19,
+    "name": "Trứng Cút",
+    "quantity": 500,
+    "unit": "fruit",
+    "expiration_date": "2024-12-15",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 20,
+    "name": "Nấm",
+    "quantity": 5,
+    "unit": "kg",
+    "expiration_date": "2025-01-10",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 21,
+    "name": "Thịt Nướng",
+    "quantity": 15,
+    "unit": "kg",
+    "expiration_date": "2025-06-01",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 22,
+    "name": "Bánh Mì",
+    "quantity": 100,
+    "unit": "fruit",
+    "expiration_date": "2024-11-30",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 23,
+    "name": "Rau Thơm",
+    "quantity": 2,
+    "unit": "kg",
+    "expiration_date": "2024-10-30",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 24,
+    "name": "Trứng",
+    "quantity": 500,
+    "unit": "fruit",
+    "expiration_date": "2024-12-01",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 25,
+    "name": "Sữa đặc",
+    "quantity": 3,
+    "unit": "liters",
+    "expiration_date": "2026-03-15",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 26,
+    "name": "Đường",
+    "quantity": 20,
+    "unit": "kg",
+    "expiration_date": "2025-06-30",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 27,
+    "name": "Kem tươi",
+    "quantity": 10,
+    "unit": "liters",
+    "expiration_date": "2025-01-01",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 28,
+    "name": "Trái cây tươi",
+    "quantity": 5,
+    "unit": "kg",
+    "expiration_date": "2024-11-20",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 29,
+    "name": "Bưởi",
+    "quantity": 10,
+    "unit": "kg",
+    "expiration_date": "2024-11-30",
+    "created_at": "2024-10-25"
+  },
+  {
+    "id": 30,
+    "name": "Nước cốt dừa",
+    "quantity": 5,
+    "unit": "liters",
+    "expiration_date": "2025-12-31",
+    "created_at": "2024-10-25"
+  }
+
+]

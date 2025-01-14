@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Bàn 1",
+    "capacity": 4,
+    "location": "Gần cửa sổ",
+    "is_available": true
+  },
+  {
+    "id": 2,
+    "name": "Bàn 2",
+    "capacity": 2,
+    "location": "Gần lối vào",
+    "is_available": false
+  },
+  {
+    "id": 3,
+    "name": "Bàn 3",
+    "capacity": 6,
+    "location": "Sảnh chính",
+    "is_available": true
+  },
+  {
+    "id": 4,
+    "name": "Bàn 4",
+    "capacity": 8,
+    "location": "Khu VIP",
+    "is_available": true
+  },
+  {
+    "id": 5,
+    "name": "Bàn 5",
+    "capacity": 2,
+    "location": "Gần quầy bar",
+    "is_available": false
+  },
+  {
+    "id": 6,
+    "name": "Bàn 6",
+    "capacity": 4,
+    "location": "Sân ngoài trời",
+    "is_available": true
+  },
+  {
+    "id": 7,
+    "name": "Bàn 7",
+    "capacity": 6,
+    "location": "Khu vực vườn",
+    "is_available": false
+  },
+  {
+    "id": 8,
+    "name": "Bàn 8",
+    "capacity": 10,
+    "location": "Phòng hội nghị",
+    "is_available": true
+  },
+  {
+    "id": 9,
+    "name": "Bàn 9",
+    "capacity": 2,
+    "location": "Góc gần cửa sổ",
+    "is_available": true
+  },
+  {
+    "id": 10,
+    "name": "Bàn 10",
+    "capacity": 2,
+    "location": "Gần nhà vệ sinh",
+    "is_available": false
+  },
+  {
+    "id": 11,
+    "name": "Bàn 11",
+    "capacity": 2,
+    "location": "Sân ngoài trời - Có mái che",
+    "is_available": true
+  },
+  {
+    "id": 12,
+    "name": "Bàn 12",
+    "capacity": 2,
+    "location": "Ban công tầng trên",
+    "is_available": true
+  },
+  {
+    "id": 13,
+    "name": "Bàn 13",
+    "capacity": 2,
+    "location": "Gần lò sưởi",
+    "is_available": false
+  }
+]
