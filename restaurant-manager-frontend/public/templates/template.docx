@@ -1,0 +1,18 @@
+Hóa đơn thanh toán
+-------------------
+Ngày giờ: {{currentDate}}
+Mã hóa đơn: {{invoiceCode}}
+
+Thông tin khách hàng:
+Số điện thoại: {{customerPhone}}
+
+Danh sách sản phẩm:
+{{#cartItems}}
+- Sản phẩm: {{name}} | Số lượng: {{quantity}} | Đơn giá: {{price}} VND
+{{/cartItems}}
+
+Tổng cộng: {{totalAmount}} VND
+Giảm giá: {{discountAmount}} VND
+Tổng thanh toán: {{finalAmount}} VND
+
+Cảm ơn bạn đã mua hàng!
